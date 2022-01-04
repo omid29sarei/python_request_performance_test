@@ -24,3 +24,6 @@ python <file_name>
 - Finally run `asyncio_aiohttp.py` To see the magic of event loop system of python
 
 **NOTE** This is to show the power of event loop which is a default feature in JavaScript, However the last solution is is actually performing faster that Node JS. Python is the Winner in this case.
+
+
+** Credit To ** https://python.plainenglish.io/send-http-requests-as-fast-as-possible-in-python-304134d46604 
